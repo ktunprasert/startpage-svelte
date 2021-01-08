@@ -26,7 +26,7 @@
 
 <main>
   Hi
-  <h1>Hello {name}!</h1>
+  <h1>Hello Mr Kris Tunprasert!!!</h1>
   <p>
     Visit the
     <a href="https://svelte.dev/tutorial">Svelte tutorial</a>
